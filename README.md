@@ -9,7 +9,9 @@ El proyecto muestra cómo aplicar OCP con un sistema de **notificaciones** (Emai
 * **Abierto a la extensión** → se pueden añadir nuevos tipos de notificación (ej. Telegram) creando una clase nueva.
 * **Cerrado a la modificación** → no es necesario cambiar el código ya existente (la función `notify` no se toca).
 
-Además, aquí se subirá también la **presentación en Canva** usada para explicar el concepto.
+## 📊 Presentación
+La explicación del principio **Open/Closed (OCP)** está disponible aquí:  
+ [Ver presentación en PDF](./src/docs/presentacion-ocp.pdf)
 
 ## 🚀 Tecnologías
 
@@ -65,6 +67,6 @@ open-closed/
 ## 👩‍💻 Autora
 
 Gema Yébenes Caballero
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/gema-y%C3%A9benes-caballero-83b6a6100/)
 
 ✨ Proyecto creado como parte de la formación en desarrollo Fullstack.
